@@ -79,7 +79,7 @@ Built-in support for GUI control panels (e.g., WindUI).
 
 A complete example is included in:
 
-examples/basic_usage.lua
+Example/Example1.lua
 
 Basic usage:
 ```
