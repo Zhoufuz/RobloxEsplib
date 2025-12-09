@@ -7,7 +7,7 @@ It works by rendering UI elements in `CoreGui` and is safe to use in development
 
 Esp demo:
 
-![ESP Banner](https://raw.githubusercontent.com/Zhoufuz/RobloxEsplib/main/assets/EspDemo.png)
+![ESP Banner](https://raw.githubusercontent.com/Zhoufuz/RobloxEsplib/main/EspDemo.png)
 
 ---
 
