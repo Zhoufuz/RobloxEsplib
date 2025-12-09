@@ -22,7 +22,7 @@ local ESP = loadstring(game:HttpGet(
 ---
 
 🚀 Quick Start
-
+```
 ESP.Enabled = true
 ESP.TeamCheck = false
 ESP.MaxDistance = 300
@@ -31,8 +31,7 @@ ESP.Drawing.Names.Enabled = true
 ESP.Drawing.Boxes.Full.Enabled = true
 ESP.Drawing.Healthbar.Enabled = true
 ESP.Drawing.Distances.Enabled = true
-
-
+```
 ---
 
 ✨ Features
