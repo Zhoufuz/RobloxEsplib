@@ -83,7 +83,7 @@ A complete example is included in:
 examples/basic_usage.lua
 
 Basic usage:
-
+```
 local ESP = loadstring(game:HttpGet(
     "https://raw.githubusercontent.com/Zhoufuz/RobloxEsplib/main/main.lua"
 ))()
@@ -92,7 +92,7 @@ ESP.Enabled = true
 ESP.Drawing.Names.Enabled = true
 ESP.Drawing.Boxes.Full.Enabled = true
 ESP.Drawing.Healthbar.Enabled = true
-
+```
 
 ---
 
